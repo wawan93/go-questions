@@ -1,0 +1,2 @@
+- Куча бойлерплейта `if err != nil`
+- GC, всё ещё делает Stop the world

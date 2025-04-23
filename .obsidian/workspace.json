@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "6413190a43d3f9a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "850fb618b2618fdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42721c2e8e4a6812",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как устроены array и slice в Golang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Как устроены array и slice в Golang"
+            }
+          },
+          {
+            "id": "6af5688010dccb4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как устроены строки в Golang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Как устроены строки в Golang"
+            }
+          },
+          {
+            "id": "bbc45f68064b9f01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Как устроены array и slice в Golang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Как устроены array и slice в Golang"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd95ee87513d825a",
+    "type": "split",
+    "children": [
+      {
+        "id": "016fac62cd42e7ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "533a1cdd1fed62ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "78b6cabaf764f18e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bf7cc1633af067c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "27e48859f03eb49a",
+    "type": "split",
+    "children": [
+      {
+        "id": "471198e5595d1ef6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58fce66c36c85a31",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Как устроены array и slice в Golang.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Как устроены array и slice в Golang"
+            }
+          },
+          {
+            "id": "1a931586b24d79d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Как устроены array и slice в Golang.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Как устроены array и slice в Golang"
+            }
+          },
+          {
+            "id": "2fd62c0c7cdd0e42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d269cb663f6a995e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Как устроены array и slice в Golang.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Как устроены array и slice в Golang"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bbc45f68064b9f01",
+  "lastOpenFiles": [
+    "Компилируемый язык программирования.md",
+    "Как устроены array и slice в Golang.md",
+    "Как устроены map в Golang.md",
+    "Как устроены строки в Golang.md",
+    "000 Вопросы с собеседований по Go.md",
+    "Scheduler в Golang.md",
+    "Golang.md",
+    "Go - ООП язык?.md",
+    "Встроенные типы в Go.md",
+    "Каналы в Go.md",
+    "Concurrency в Golang.md",
+    "Concurrency vs. Parallelism.md",
+    "Defer, Panic, and Recover.md",
+    "Нюанс про grow для слайсов в Golang.md",
+    "Нюанс про unsafe.Pointer для слайсов в Golang.md",
+    "Управление зависимостями в Golang.md",
+    "строгая типизация.md",
+    "статическая типизация.md",
+    "Принцип наименьшего удивления.md",
+    "Простой синтаксис Golang.md",
+    "Преимущества Golang.md",
+    "Недостатки Golang.md",
+    "Welcome.md"
+  ]
+}
